@@ -1,6 +1,6 @@
 # Hi! I'm Ron
 
-I'm Product Focused Software Engineer, I'm passionate about crafting software that adds value and impacts people in their every day lives in a positive way.
+I'm passionate about crafting software that adds value and impacts people in their every day lives in a positive way.
 
 ## About Me
 
